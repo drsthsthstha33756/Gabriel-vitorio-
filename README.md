@@ -23,6 +23,6 @@
 <p> oi  bom dia tudo bem? me chamo Gabriel Vitorio Sacramento estou começando na carreira de ti (ADS).tenho como objetivo seguir nessa carreira e amprender todos os ceitos necesseçario para começa a programar aprender conceitos basicos e fudamentais para a programação. </p>
 
 -------------------------------------------------------------------
-.
+<p>minhas principais metas para começar a programar são :</p>
 
 </body>
