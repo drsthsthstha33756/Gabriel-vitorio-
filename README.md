@@ -20,7 +20,7 @@
 
 <body>
     <h1> Olá seja bem vindo !!!</h1>
-<p> Oi  bom dia tudo bem? me chamo Gabriel estou cursando na área de TI (Analise e Desenvolvimento de Sistema). tenho como objetivo seguir nessa carreira e aprender todos os ceitos necesseçario para começa a programar. conceitos basicos e fudamentais para a programação. tenho como objetivo atingir minhas metas me consolidar como um otimo profissinal na área. </p>
+<p> Oi  bom dia tudo bem? me chamo Gabriel estou cursando na área de TI (Analise e Desenvolvimento de Sistema). tenho como objetivo seguir nessa carreira e aprender todos os conceitos necesseçario para começa a programar. Tenho como objetivo atingir minhas metas me consolidar como um otimo profissinal na área. </p>
 
 -------------------------------------------------------------------
 <p>Minhas principais metas para começar a programar são :</p>
